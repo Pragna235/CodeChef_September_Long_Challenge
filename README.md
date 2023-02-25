@@ -1,2 +1,3 @@
 # CodeChef_September_Long_Challenge
-Challenge Problems
+* Challenge Problems
+* CodeChef Contest
